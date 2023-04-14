@@ -1,8 +1,8 @@
-# Natours - Time To Travel
+# Natours - Time To Travel ✈🧳
 
 This full stack web application is specially designed for persons who love travelling and going on tour vacations.
 
-## Overview
+## Overview ✨
 
 This web application allows it's users to book tour vacations.
 
@@ -16,43 +16,48 @@ Users can write only one review for any tour they book.
 
 ---
 
-## Purpose
+## Purpose ✨
 
 This app is a pet project, built for the express purpose of honing my skills in full stack web development.
 
 ---
 
-## Demonstration
+## Project Demonstration ✨
 
 #### Home Page :
 
-![HomePage](https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/home%20page.mp4)
+![HomePage](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Booked-Tour.gif)
 
 #### Tour Details :
 
-![tourOverview](https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/tour%20page.mp4)
+![TourDetails](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Booked-Tour.gif)
+
 
 #### LOGIN PAGE :
 
 <!-- ![https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/login%20page.png] | width=640) -->
+
 <img src="https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/login%20page.png" width="640">
 
 #### User Profile :
 
-![UserProfile](https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/user%20login%20page.mp4)
+
+
+![TourDetails](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Booked-Tour.gif)
 
 #### Admin Profile :
 
-![AdminProfile](https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/admin%20login%20page.mp4)
+![TourDetails](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Booked-Tour.gif)
 
 #### Payment Process :
 
 <!-- ![paymentprocess](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Payment.png | width=640) -->
+
 <img src="https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Payment.png" width="640">
 
 ---
 
-## Main Tools And Technologies Used
+## Main Tools And Technologies Used ✨
 
 - HTML (Create the structure and content of the web pages).
 - CSS (Styling of the web pages).
@@ -72,7 +77,9 @@ This app is a pet project, built for the express purpose of honing my skills in 
 
 ---
 
-## Setting Up Your Local Environment
+## Setting Up Your Local Environment  ✨
+
+####  Getting Started
 
 If you wish to play around with the code base in your local environment, do the following
 
@@ -114,7 +121,7 @@ If you wish to play around with the code base in your local environment, do the 
 
 ---
 
-## Main Features
+## Main Features  ✨
 
 - [Users](#users)
 - [Tours](#tours)
@@ -171,6 +178,6 @@ This project is not yet  hosted
 
 ---
 
-## Credits
+## Credits  ✨
 
 This project was created by Jonas Schmedtmann as part of his Node.js Bootcamp course on Udemy.

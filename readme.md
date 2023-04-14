@@ -26,11 +26,11 @@ This app is a pet project, built for the express purpose of honing my skills in 
 
 #### Home Page :
 
-![HomePage](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Booked-Tour.gif)
+![HomePage](https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/homePage.gif)
 
 #### Tour Details :
 
-![TourDetails](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Booked-Tour.gif)
+![TourDetails](https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/tourOverview.gif)
 
 
 #### LOGIN PAGE :
@@ -43,11 +43,11 @@ This app is a pet project, built for the express purpose of honing my skills in 
 
 
 
-![TourDetails](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Booked-Tour.gif)
+![UserProfile](https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/userProfile.gif)
 
 #### Admin Profile :
 
-![TourDetails](https://github.com/NachiketaDhal/Natours-API/blob/master/public/Screenshots/Booked-Tour.gif)
+![AdminProfile](https://github.com/devikumavath/Natours-Time-to-travel/blob/main/public/screenShots/adminProfile.gif)
 
 #### Payment Process :
 

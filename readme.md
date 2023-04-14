@@ -174,7 +174,7 @@ Nevertheless, this summary is enough to help you understand the major features o
 You are welcome to make improvements on the app.
 Please use the link specified at the beginning of the document to preview the app.
 
-This project is not yet  hosted 
+This project is not yet  hosted....
 
 ---
 
